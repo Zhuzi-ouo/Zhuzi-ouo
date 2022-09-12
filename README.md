@@ -8,8 +8,9 @@
 - Age: 16y
 
 ### Contact Me :
-- Discord: 竹子#6676
+- Discord: 竹子#6818
 - Twitter: Zhuzi_OwO
+- Revolt Chat: Zhuzi
 
 <!--
 **Zhuzi-ouo/Zhuzi-ouo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
