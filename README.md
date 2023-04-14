@@ -1,7 +1,7 @@
 ### 嗨 我是Zhuzi
 
 ### 關於我:
-- Country: Republic Of China (Taiwan)
+- Country: Republic of China (Taiwan)
 - Age: 16y
 
 ### 程式語言技能:
