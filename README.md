@@ -1,8 +1,5 @@
 ### 嗨 我是Zhuzi
 
-### Buy Me a Coffee!
-<a href="https://www.buymeacoffee.com/ZhuziOwO" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
 ### 關於我:
 - Country: Republic Of China (Taiwan)
 - Age: 16y
