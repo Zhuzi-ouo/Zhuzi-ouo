@@ -2,7 +2,7 @@
 
 ### 關於我:
 - Country: Republic of China (Taiwan)
-- Age: 16y
+- Age: 17y
 
 ### 程式語言技能:
 - C++
