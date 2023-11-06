@@ -11,7 +11,7 @@
 - C# (Learning)
 
 ### 聯絡方式 :
-- Discord: 竹子#6818
+- Discord: zhuzi_uwu
 - Twitter: Zhuzi_OwO
 - Revolt Chat: Zhuzi
 
