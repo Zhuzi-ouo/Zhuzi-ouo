@@ -1,6 +1,6 @@
 ### 嗨 我是Zhuzi
 
-### 關於我:
+### About Me:
 - Country: Republic of China (Taiwan)
 - Age: 17y
 
